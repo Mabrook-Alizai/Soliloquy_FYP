@@ -6,11 +6,12 @@ TagManager:
   tags:
   - ElevatorTerminal
   - Elevator
+  - Ethan
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - FlashLayerMask
+  - InteractableMask
   - Water
   - UI
   - 

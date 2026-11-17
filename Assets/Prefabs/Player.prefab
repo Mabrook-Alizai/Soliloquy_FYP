@@ -1769,7 +1769,7 @@ GameObject:
   - component: {fileID: 5002644275673153637}
   m_Layer: 0
   m_Name: Ethan
-  m_TagString: Untagged
+  m_TagString: Ethan
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1853,9 +1853,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camera: {fileID: 1207499040999082647}
-  flashGrabbableMask:
+  interactableMask:
     serializedVersion: 2
-    m_Bits: 8
+    m_Bits: 0
 --- !u!114 &5002644275673153637
 MonoBehaviour:
   m_ObjectHideFlags: 0
